@@ -1,1 +1,1 @@
-Sitemap: https://zegaroofing.ca/winnipeg-roofing/sitemap.xml
+Sitemap: sitemap.xml
